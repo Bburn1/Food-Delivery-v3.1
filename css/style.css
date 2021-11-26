@@ -32,6 +32,9 @@ background-position: left 11px center;
 flex: 0.8;
 background-image: url(../img/home.svg);
 }
+.hide {
+    display: none;
+}
 .input-search {
     width: 300px;
     background-image: url(../img/search.svg);
